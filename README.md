@@ -4,15 +4,15 @@
 
 1) Jaya Sree Tolety
 
-  AI23MTECH14007
+   AI23MTECH14007
 
-  MTech, Department Of AI, IIT Hyderabad
+   MTech, Department Of AI, IIT Hyderabad
 
 2) Manikanta Vallepu
 
-  AI20BTECH11014
+   AI20BTECH11014
 
-  BTech, Department Of AI, IIT Hyderabad
+   BTech, Department Of AI, IIT Hyderabad
 
 ### ABSTRACT:
 
