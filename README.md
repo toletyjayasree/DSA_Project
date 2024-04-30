@@ -1,8 +1,11 @@
 # Dimension-Reduction-Techniques-in-Facial-Recognition-using-SVM-Classifier
 
 Authors -
+
 Jaya Sree Tolety
+
 AI23MTECH14007
+
 MTech, Department Of AI, IIT Hyderabad
 
 Manikanta Vallepu
